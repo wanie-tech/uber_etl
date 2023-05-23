@@ -15,7 +15,7 @@ TOOLS USED
 
 2. Python Programming Languange
 
-4. Data Pipeine Tool - https://www.mage.ai/
+4. Data Pipeline Tool - https://www.mage.ai/
 
  ARCHITECTURE 
 
