@@ -1,9 +1,10 @@
 # UBER ETL PIPELINE PROJECT - GCP 
 
-# INTRODUCTION
+INTRODUCTION
+
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, GCP Compute Instance, Mage Data Pipeline Tool, GCP BigQuery, and GCP Looker Studio.
 
-# TOOLS USED
+TOOLS USED
 
 1.Google Cloud Platform
 
@@ -16,5 +17,5 @@ The goal of this project is to perform data analytics on Uber data using various
 
 4. Data Pipeine Tool - https://www.mage.ai/
 
-# ARCHITECTURE 
+ ARCHITECTURE 
 
