@@ -8,14 +8,10 @@ TOOLS USED
 
 1.Google Cloud Platform
 
--Google Storage
--Compute Instance
--BigQuery
--Looker Studio
+Google Storage, Compute Instance, BigQuery, Looker Studio
 
 2. Python Programming Languange
 
 4. Data Pipeline Tool - https://www.mage.ai/
 
- ARCHITECTURE 
 
