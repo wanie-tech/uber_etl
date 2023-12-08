@@ -10,4 +10,10 @@ TOOLS USED
 2. Python Programming Languange
 3. Data Pipeline Tool - https://www.mage.ai/
 
+ARCHITECTURE
+
+Below here is the architecture of the project:
+![uber](https://github.com/wanie-tech/uber_etl/assets/107450054/c4247e82-57d4-4e11-a284-0a85d7582ad2)
+
+
 
