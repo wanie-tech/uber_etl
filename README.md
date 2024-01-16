@@ -6,8 +6,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 TOOLS USED
 
-1. Google Cloud Platform - Google Storage, Compute Instance, BigQuery, Looker Studio
-  a. Looker Studio - https://lookerstudio.google.com/s/ip6bpaQ5FFM 
+1. Google Cloud Platform - Google Storage, Compute Instance, BigQuery, Looker Studio (https://lookerstudio.google.com/s/ip6bpaQ5FFM)
 2. Python Programming Languange
 3. Data Pipeline Tool - https://www.mage.ai/
 
