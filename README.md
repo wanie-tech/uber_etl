@@ -10,6 +10,11 @@ TOOLS USED
 2. Python Programming Languange
 3. Data Pipeline Tool - https://www.mage.ai/
 
+DATA USED
+
+1. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+2. Data - 
+
 ARCHITECTURE
 
 Below here is the architecture of the project:
