@@ -13,7 +13,7 @@ TOOLS USED
 DATA USED
 
 1. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
-2. Data - 
+2. Data - data/uber_data.csv
 
 ARCHITECTURE
 
